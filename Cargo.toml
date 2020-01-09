@@ -1,0 +1,7 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+authors = ["katsuaki.nakajima <katsuaki.nakajima@itage.co.jp>"]
+edition = "2018"
+
+[dependencies]
