@@ -14,6 +14,6 @@ jobs:
     - uses: actions/upload-artifact@v1 
       with:
          name: minigrep
-         path: minigrep
+         path: target/debug/minigrep
     - name: Run tests
       run: cargo test --verbose
